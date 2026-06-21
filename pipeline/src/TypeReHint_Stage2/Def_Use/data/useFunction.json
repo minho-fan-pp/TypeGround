@@ -1,0 +1,12 @@
+[
+  {
+    "name": "normalizeInput",
+    "useCode": "normalizeInput((payload as { name: any }).name)",
+    "file": "/mnt/TypeGround/pipeline_smoke/temp/project/src/index.ts"
+  },
+  {
+    "name": "readPayload",
+    "useCode": "readPayload(sample)",
+    "file": "/mnt/TypeGround/pipeline_smoke/temp/project/src/index.ts"
+  }
+]

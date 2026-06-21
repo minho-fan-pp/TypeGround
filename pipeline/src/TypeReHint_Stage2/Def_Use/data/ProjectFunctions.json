@@ -1,0 +1,12 @@
+[
+  {
+    "name": "normalizeInput",
+    "sourceCode": "function normalizeInput(value:any): string",
+    "filePath": "/mnt/TypeGround/pipeline_smoke/temp/project/src/index.ts"
+  },
+  {
+    "name": "readPayload",
+    "sourceCode": "function readPayload(payload:unknown): string",
+    "filePath": "/mnt/TypeGround/pipeline_smoke/temp/project/src/index.ts"
+  }
+]
