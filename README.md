@@ -1,9 +1,8 @@
 # TypeGround: Fine-Grained Benchmarking for TypeScript Type Inference
 
-A compiler-verified, fine-grained benchmark for TypeScript type inference. Covers **2,735 projects, 99,209 source files, and 1,428,997 type annotations** — providing reliable training and evaluation signals for generative and LLM-based type prediction methods.
+> **Dataset**: [TypeGround](https://huggingface.co/datasets/fumx66/TypeGround)
 
-**Dataset**: [TypeGround](https://huggingface.co/datasets/fumx66/TypeGround)
-**Weight**: [TypeGround](https://huggingface.co/fumx66/TypeGround_weight)
+> **Weight**: [TypeGround](https://huggingface.co/fumx66/TypeGround_weight)
 
 ## Abstract
 
